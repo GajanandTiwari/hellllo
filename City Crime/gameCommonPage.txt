@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+body{background-image:url("C:\\Users\\91961\\Desktop\\City Crime\\apartmentt.jpg");background-size:cover;}
+body{background-color:black}
+
+audio{width:0px;height:0px}
+button{width: 120px;height:40px;font-size:25px;border:2px  solid #000000;border-radius:7px;cursor:pointer;)
+
+</style>
+</head>
+<body>
+<center>
+
+<audio controls autoplay loop>
+<source src="C:\Users\91961\Desktop\City Crime\BGMM.mp3" type="audio/mpeg">
+</audio>
+<a href="page3.html">
+<button>See Suspects</button>
+</a>
+</center>
+</body>
+</html>
